@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.simon
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, gradle, http-client, junit, kotlin, kotlin-build, logback, micronaut-build, readme, serialization-jackson, shade, yaml]
